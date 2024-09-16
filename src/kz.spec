@@ -8,8 +8,6 @@ BuildArch:  noarch
 Requires:   polkit, psmisc, python3-systemd, rsync, zenity
 
 %description
-Installation and management scripts by Karel Zimmer
-
 Package kz contains scripts for installing and managing Red Hat and
 Red Hat-based systems such as Rocky Linux.
 
