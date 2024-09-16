@@ -23,8 +23,8 @@ under Linux.
 %build
 
 %install
-rsync --archive kz/etc %{buildroot}/
-rsync --archive kz/usr %{buildroot}/
+rsync --archive kz-deb-files/etc %{buildroot}/
+rsync --archive kz-deb-files/usr %{buildroot}/
 
 %clean
 #rm -rf %{buildroot}
@@ -35,6 +35,7 @@ rsync --archive kz/usr %{buildroot}/
 /usr/bin/*
 /usr/share/applications/*
 /usr/share/bash-completion/completions/*
+/usr/share/doc/kz/*
 /usr/share/locale/nl/LC_MESSAGES/*
 /usr/share/man/man1/*
 /usr/share/man/nl/man1/*
