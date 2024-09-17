@@ -25,7 +25,6 @@ rsync --archive kz-rpm/dist/kz-deb-files/etc %{buildroot}/
 rsync --archive kz-rpm/dist/kz-deb-files/usr %{buildroot}/
 
 %clean
-rm -rf %{buildroot}
 
 %files
 /etc/firefox/policies/*
