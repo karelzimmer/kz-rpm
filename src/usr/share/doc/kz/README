@@ -1,0 +1,22 @@
+What Is It ?
+============
+Package kz, named after its creator, Karel Zimmer, contains scripts for
+installing and managing Red Hat and Red Hat-based systems such as Rocky Linux.
+
+Also installs (dependencies)
+============================
+polkit          - E.g. execute a command as another user (pkexec)
+psmisc          - Identify processes using files with fuser
+python3-systemd - Use systemd.journal module for Python
+rsync           - File-copying tool to backup and restore files
+yum-utils       - E.g. determine updated binaries that need restarting (needs-restarting)
+zenity          - GUIfy scripts
+
+How To Use
+==========
+For how to use this package see Checklist installation.
+Checklist installation can be found on the site https://karelzimmer.nl/en,
+under Linux.
+
+Written by Karel Zimmer <info@karelzimmer.nl>.
+CC0 1.0 Universal <https://creativecommons.org/publicdomain/zero/1.0>.
