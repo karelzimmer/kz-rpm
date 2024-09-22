@@ -5,7 +5,7 @@ Group:      Utilities
 Summary:    Installation and management scripts by Karel Zimmer
 License:    CC0-1.0
 BuildArch:  noarch
-Requires:   polkit, psmisc, python3-systemd, rsync, yum-utils, zenity
+Requires:   polkit, psmisc, python3-systemd, redhat-lsb-core, rsync, yum-utils, zenity
 
 %description
 Package kz contains scripts for installing and managing Red Hat and

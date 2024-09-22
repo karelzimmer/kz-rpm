@@ -8,6 +8,7 @@ Also installs (dependencies)
 polkit          - E.g. execute a command as another user (pkexec)
 psmisc          - Identify processes using files with fuser
 python3-systemd - Use systemd.journal module for Python
+redhat-lsb-core - E.g. print distribution-specific information (lsb_release)
 rsync           - File-copying tool to backup and restore files
 yum-utils       - E.g. determine updated binaries that need restarting (needs-restarting)
 zenity          - GUIfy scripts
