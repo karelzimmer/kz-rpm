@@ -21,8 +21,8 @@ under Linux.
 %build
 
 %install
-mv kz-rpm/dist/etc %{buildroot}/
-mv kz-rpm/dist/usr %{buildroot}/
+rsync --archive kz-rpm/dist/etc %{buildroot}/
+rsync --archive kz-rpm/dist/usr %{buildroot}/
 
 %clean
 
