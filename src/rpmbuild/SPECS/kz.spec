@@ -1,3 +1,5 @@
+%define _topdir %{getenv:HOME}/kz-rpm/dist/rpmbuild
+
 Name:       kz
 Version:    4.2.1
 Release:    1
