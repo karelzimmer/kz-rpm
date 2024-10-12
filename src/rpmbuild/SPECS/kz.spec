@@ -23,8 +23,8 @@ under Linux.
 %build
 
 %install
-rsync --archive kz-rpm/dist/etc %{buildroot}/
-rsync --archive kz-rpm/dist/usr %{buildroot}/
+rsync --archive %{getenv:HOME}/kz-rpm/dist/etc %{buildroot}/
+rsync --archive %{getenv:HOME}/kz-rpm/dist/usr %{buildroot}/
 
 %clean
 
