@@ -17,8 +17,8 @@ Checklist installation can be found on the site https://karelzimmer.nl/en,
 under Linux.
 
 %install
-rsync --archive %{getenv:HOME}/kz-rpm/dist/etc %{buildroot}/
-rsync --archive %{getenv:HOME}/kz-rpm/dist/usr %{buildroot}/
+rsync --archive kz-rpm/dist/etc %{buildroot}/
+rsync --archive kz-rpm/dist/usr %{buildroot}/
 
 %clean
 
