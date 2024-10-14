@@ -23,14 +23,5 @@ rsync --archive %{getenv:HOME}/kz-rpm/dist/usr %{buildroot}/
 %clean
 
 %files
-/etc/firefox/policies/*
-/etc/opt/chrome/policies/managed/*
-/usr/bin/*
-/usr/share/applications/*
-/usr/share/bash-completion/completions/*
-/usr/share/doc/kz/*
-/usr/share/locale/nl/LC_MESSAGES/*
-/usr/share/man/man1/*
-/usr/share/man/nl/man1/*
-/usr/share/pixmaps/*
-/usr/share/polkit-1/actions/*
+/etc/*
+/usr/*
