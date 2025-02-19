@@ -1,10 +1,12 @@
 What Is It ?
 ============
 Package kz, named after its creator, Karel Zimmer, contains scripts for
-installing and managing Red Hat and Red Hat-based systems such as Rocky Linux.
+installing and managing Red Hat and Red Hat-based systems such as AlmaLinux and
+Rocky Linux.
 
 Also installs (dependencies)
 ============================
+epel-release    - Extra Packages for Enterprise Linux (EPEL)
 psmisc          - Identify processes using files with fuser
 python3         - An interpreted, interactive, object-oriented programming language
 python3-systemd - Use systemd.journal module for Python
