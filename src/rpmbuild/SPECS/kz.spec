@@ -8,8 +8,7 @@ BuildArch:  noarch
 Requires:   epel-release, psmisc, python3, python3-systemd, rsync, yum-utils, zenity
 
 %description
-Package kz contains scripts for installing and managing Red Hat and
-Red Hat-based systems such as Rocky Linux.
+Package kz contains scripts for installing and managing Red Hat-based systems such as AlmaLinux and Rocky Linux.
 
 For how to use this package see Checklist installation.
 
