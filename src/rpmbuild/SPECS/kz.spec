@@ -28,6 +28,7 @@ rsync --archive kz-rpm/dist/usr %{buildroot}/
 /usr/share/applications/*
 /usr/share/bash-completion/completions/*
 /usr/share/doc/kz/*
+/usr/share/kz/*
 /usr/share/locale/nl/LC_MESSAGES/*
 /usr/share/man/man1/*
 /usr/share/man/man7/*
