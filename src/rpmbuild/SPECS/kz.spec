@@ -31,8 +31,10 @@ rsync --archive kz-rpm/dist/usr %{buildroot}/
 /usr/share/kz/*
 /usr/share/locale/nl/LC_MESSAGES/*
 /usr/share/man/man1/*
+/usr/share/man/man2/*
 /usr/share/man/man5/*
 /usr/share/man/nl/man1/*
+/usr/share/man/nl/man2/*
 /usr/share/man/nl/man5/*
 /usr/share/pixmaps/*
 /usr/share/polkit-1/actions/*
