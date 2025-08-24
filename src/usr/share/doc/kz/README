@@ -7,10 +7,8 @@ Also installs (dependencies)
 ============================
 epel-release    - Extra Packages for Enterprise Linux (EPEL)
 psmisc          - Identify processes using files with fuser
-python3         - An interpreted, interactive, object-oriented programming language
 python3-systemd - Use systemd.journal module for Python
 rsync           - File-copying tool to backup and restore files
-yum-utils       - E.g. determine updated binaries that need restarting (needs-restarting)
 
 How To Use
 ==========
