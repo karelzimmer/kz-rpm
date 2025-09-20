@@ -23,12 +23,13 @@ rsync --archive kz-rpm/dist/usr %{buildroot}/
 
 %files
 /etc/firefox/policies/*
+/etc/kz/*
 /etc/opt/chrome/policies/managed/*
 /usr/bin/*
 /usr/share/applications/*
 /usr/share/bash-completion/completions/*
-/usr/share/gettext/its/*
 /usr/share/doc/kz/*
+/usr/share/gettext/its/*
 /usr/share/kz/*
 /usr/share/locale/nl/LC_MESSAGES/*
 /usr/share/man/man1/*
