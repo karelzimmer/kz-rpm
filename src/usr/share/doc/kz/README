@@ -9,6 +9,7 @@ epel-release    - Extra Packages for Enterprise Linux (EPEL)
 psmisc          - Identify processes using files with fuser
 python3-systemd - Use systemd.journal module for Python
 rsync           - File-copying tool to backup and restore files
+zenity          - Display graphical dialog boxes from shell scripts
 
 How To Use
 ==========
