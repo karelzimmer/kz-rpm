@@ -24,7 +24,6 @@ rsync --archive kz-rpm/dist/usr %{buildroot}/
 %files
 /etc/firefox/policies/*
 /etc/opt/chrome/policies/managed/*
-/etc/sudoers.d/*
 /usr/bin/*
 /usr/share/applications/*
 /usr/share/bash-completion/completions/*
