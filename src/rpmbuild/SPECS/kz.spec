@@ -34,7 +34,6 @@ rsync --archive kz-rpm/dist/usr %{buildroot}/
 /usr/share/gettext/its/kz-policy.loc
 /usr/share/kz/kz-public-key.gpg
 /usr/share/locale/nl/LC_MESSAGES/kz.mo
-/usr/share/locale/nl/LC_MESSAGESkz.po
 /usr/share/man/man1/*
 /usr/share/man/man5/*
 /usr/share/man/nl/man1/*
