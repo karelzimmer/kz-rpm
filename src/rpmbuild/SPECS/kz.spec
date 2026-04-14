@@ -5,7 +5,7 @@ Group:      Utilities
 Summary:    Installation and management scripts by Karel Zimmer
 License:    CC0-1.0
 BuildArch:  noarch
-Requires:   epel-release, newt, psmisc, python3-systemd, rsync
+Requires:   epel-release, newt, psmisc, python3-systemd, rsync, zenity
 
 %description
 Package kz contains scripts for installing and managing Red Hat and Red Hat-based systems such as Rocky Linux.
