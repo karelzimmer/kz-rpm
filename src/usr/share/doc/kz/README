@@ -5,7 +5,6 @@ installing and managing Red Hat and Red Hat-based systems such as Rocky Linux.
 
 Also installs (dependencies)
 ============================
-epel-release    - Extra Packages for Enterprise Linux (EPEL)
 newt            - Display dialog boxes from shell scripts (e.g. whiptail TUI)
 psmisc          - Identify processes using files with fuser
 python3         - Interactive high-level object-oriented language
