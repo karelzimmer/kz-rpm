@@ -5,7 +5,7 @@ Group:      Utilities
 Summary:    Installation and management scripts by Karel Zimmer
 License:    CC0-1.0
 BuildArch:  noarch
-Requires:   newt, psmisc, python3, python3-systemd, rsync
+Requires:   newt, psmisc, python(abi) >= 3.9, python3-systemd, rsync
 Recommends: epel-release
 
 %description
