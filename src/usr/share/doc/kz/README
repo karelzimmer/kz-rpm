@@ -10,6 +10,7 @@ psmisc          - Identify processes using files with fuser
 python3         - Interactive high-level object-oriented language
 rsync           - File-copying tool to backup and restore files
 epel-release    - Extra Packages for Enterprise Linux (EPEL) - recommended
+zenity          - Display graphical dialog boxes from shell scripts (GUI)
 
 How To Use
 ==========
