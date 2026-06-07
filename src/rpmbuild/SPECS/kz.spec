@@ -9,7 +9,8 @@ Requires:   dialog, polkit, psmisc, python(abi) >= 3.9, rsync, zenity
 Recommends: epel-release
 
 %description
-Package kz contains scripts for installing and managing Red Hat and Red Hat-based systems such as Rocky Linux.
+Package kz contains scripts for installing and managing Red Hat and
+Red Hat-based systems such as Rocky Linux.
 
 For how to use this package see Checklist installation.
 
