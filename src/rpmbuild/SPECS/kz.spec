@@ -5,7 +5,7 @@ Group:      Utilities
 Summary:    Installation and management scripts by Karel Zimmer
 License:    CC0-1.0
 BuildArch:  noarch
-Requires:   dialog, polkit, psmisc, python(abi) >= 3.9, rsync, zenity
+Requires:   dialog, polkit, psmisc, python(abi) >= 3.9, rsync, xdg-user-dirs, zenity
 Recommends: epel-release
 
 %description
