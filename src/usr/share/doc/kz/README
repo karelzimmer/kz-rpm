@@ -5,12 +5,12 @@ installing and managing Red Hat and Red Hat-based systems such as Rocky Linux.
 
 Also installs (dependencies)
 ============================
-dialog          - Display dialog boxes from shell scripts (TUI)
+dialog          - A utility for creating TTY dialog boxes (TUI)
 polkit          - An authorization framework
-psmisc          - Identify processes using files with fuser
-python3         - Interactive high-level object-oriented language
-rsync           - File-copying tool to backup and restore files
-epel-release    - Extra Packages for Enterprise Linux (EPEL) - recommended
+psmisc          - Utilities for managing processes on your system (fuser)
+python3         - Python v.rr (e.g. 3.12) interpreter
+rsync           - A program for synchronizing files over a network
+epel-release    - Extra Packages for Enterprise Linux repository configuration
 xdg-user-dirs   - Handles user special directories
 zenity          - Display graphical dialog boxes from shell scripts (GUI)
 
