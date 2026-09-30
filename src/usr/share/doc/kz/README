@@ -9,6 +9,7 @@ dialog          - A utility for creating TTY dialog boxes (TUI)
 polkit          - An authorization framework
 psmisc          - Utilities for managing processes on your system (fuser)
 python3         - Python v.rr (e.g. 3.12) interpreter
+python3-systemd - Python 3 bindings for systemd
 rsync           - A program for synchronizing files over a network
 epel-release    - Extra Packages for Enterprise Linux repository configuration
 xdg-user-dirs   - Handles user special directories

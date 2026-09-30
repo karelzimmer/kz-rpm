@@ -9,6 +9,7 @@ Requires:   dialog
 Requires:   polkit
 Requires:   psmisc
 Requires:   python(abi) >= 3.9
+Requires:   python3-systemd
 Requires:   rsync
 Requires:   xdg-user-dirs
 Requires:   zenity
