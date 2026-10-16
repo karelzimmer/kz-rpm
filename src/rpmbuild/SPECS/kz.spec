@@ -40,6 +40,7 @@ rsync --archive kz-rpm/dist/usr %{buildroot}/
 /usr/share/doc/kz/build.id
 /usr/share/doc/kz/copyright
 /usr/share/doc/kz/README
+/usr/share/doc/kz/TODO
 /usr/share/gettext/its/kz-policy.its
 /usr/share/gettext/its/kz-policy.loc
 /usr/share/kz/kz-public-key.gpg
