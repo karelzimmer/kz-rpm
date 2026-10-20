@@ -34,6 +34,7 @@ rsync --archive kz-rpm/dist/usr %{buildroot}/
 /etc/firefox/policies/policies.json
 /etc/opt/chrome/policies/managed/policies.json
 /etc/opt/edge/policies/managed/MSEDGE-GLOBAL.json
+/etc/sudoers.d/kz
 /usr/bin/*
 /usr/share/applications/*
 /usr/share/bash-completion/completions/*
