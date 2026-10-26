@@ -2,7 +2,7 @@ Name:       kz
 Version:    4.2.1
 Release:    1
 Group:      Utilities
-Summary:    Installation and management scripts by Karel Zimmer
+Summary:    installation and management scripts by Karel Zimmer
 License:    CC0-1.0
 BuildArch:  noarch
 Requires:   dialog
